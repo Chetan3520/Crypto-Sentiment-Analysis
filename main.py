@@ -6,6 +6,10 @@ import re
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
 from textblob import TextBlob
+import nltk
+nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('wordnet')
 
 st.markdown(
     """
