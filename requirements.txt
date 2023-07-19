@@ -1,0 +1,6 @@
+beautifulsoup4==4.12.2
+nltk==3.8.1
+pandas==2.0.1
+Requests==2.31.0
+streamlit==1.24.1
+textblob==0.17.1
